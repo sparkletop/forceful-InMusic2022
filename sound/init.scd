@@ -1,4 +1,6 @@
 (
+// To start the sound engine and user interface, place the cursor anywhere in this document and press Ctrl+Enter
+
 l = ();
 ~examples = ();
 
