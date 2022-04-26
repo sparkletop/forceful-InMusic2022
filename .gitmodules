@@ -1,0 +1,3 @@
+[submodule "Leap-OSC"]
+	path = Leap-OSC
+	url = https://github.com/sparkletop/Leap-OSC
